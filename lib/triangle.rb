@@ -7,8 +7,8 @@ class Triangle
     @l3 = l3
   end
 
-  def kind 
+  def kind
     
-  end 
-  
+  end
+
 end
